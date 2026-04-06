@@ -1,12 +1,6 @@
-## Working Modules
+# VFCO: Verification Frequency Control and Optimization
 
-### 1. Cloud Server (CS)
-* **Functionalities_CS.py**: Contains the backend operations and logic for the Cloud Server.
-* **CS.py**: The main execution file. It simulates CS operations, including sending challenges, receiving responses, and performing integrity verification.
-
-### 2. Edge Server (ES)
-* **Functionalities_ES.py**: Contains the backend operations and logic for the Edge Server.
-* **ES_N.py**: The main execution file for the Edge Server. It handles receiving challenges, generating integrity proofs, and returning them to the CS. Each instance of this file represents an individual Edge Server.
+VFCO is an adaptive framework that determines how often edge data integrity verification should be performed. It monitors system conditions (e.g., verification results, workload, and resource usage) and dynamically adjusts verification frequency using a multi-objective optimization approach. The goal is to minimize corruption exposure while reducing service degradation and resource overhead.
 
 ---
 
