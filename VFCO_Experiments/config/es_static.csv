@@ -1,0 +1,5 @@
+es_id,C_nominal,f_min,f_max
+Edge-Server-1,50,0.167,0.5
+Edge-Server-2,60,0.167,0.5
+Edge-Server-3,40,0.167,0.5
+Edge-Server-4,50,0.167,0.5
