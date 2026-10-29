@@ -1,2 +1,0 @@
-window_id,window_start_ts,window_end_ts,f_applied,TP,TN,u_avg,a_avg,D_avg_s,tau_cpu_avg_s,b_net_avg_bytes,U_cpu_avg,U_net_avg,f_next
-1,31:05.1,32:05.1,0.267,9,1,20,5,0.02,0.003,2000,0.35,0.3,
