@@ -33,3 +33,5 @@ Place the following file on the Edge Server device (e.g., Raspberry Pi):
 1.  **First**, run the cloud server code CS.py
 2.  Then run edge servers one by one, ES1.py, ES2.py.....ESn.py 
 3.  In the cloud server program, enter the 'send' command
+
+[^note]: NB: The Outcomes of this work have been submitted to IEEE Transactions on Cloud Computing.
